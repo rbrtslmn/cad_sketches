@@ -1,0 +1,1 @@
+# bulb_socket_cover
