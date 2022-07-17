@@ -1,3 +1,3 @@
-# bulb_socket_cover
+# CAD Sketches
 
-![Bulb Socket Cover](img/bulb_socket_cover.jpg)
+CAD files made with FreeCAD
